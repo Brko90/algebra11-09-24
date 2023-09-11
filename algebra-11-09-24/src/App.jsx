@@ -1,6 +1,6 @@
 import React from 'react';
 import FunctionalComponent from './FunctionalComponent';
-import ClassComponent from './ClassComponent';
+import ClassComponent from '../src/assets/ClassComponent';
 
 function App() {
   return (
